@@ -1,4 +1,4 @@
-/* Hello Welcome to my github 👋
+<!-- Hello Welcome to my github 👋
 
 
 A Data Science Student | Aspiring Machine Learning Engineer | Problem Solver
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-*/
+-->
